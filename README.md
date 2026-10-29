@@ -2,7 +2,7 @@
 
 A five-minute nature documentary about dinosaurs, in 8-bit pixel art.
 
-**Watch it:** https://nathanielostrer.github.io/terrible-lizards/
+**Watch it:** https://nathanielostrer.com/terrible-lizards/
 
 The narrator is a voice made in Breeze TTS 2 from a written description of an elderly
 English naturalist. Everything else, from the dinosaurs to the music, is drawn and
